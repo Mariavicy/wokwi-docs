@@ -16,7 +16,7 @@ Standard 5mm LED.
 
 ## Attributes
 
-| Name       | Description                     | Default value        |
+| Name       | Aula 1                    | Default value        |
 | ---------- | ------------------------------- | -------------------- |
 | color      | The color of the LED body       | "red"                |
 | lightColor | The color of the light          | depends on the color |
